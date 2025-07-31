@@ -1,0 +1,3 @@
+C:/Users/phama/OneDrive/Tài liệu/HN_ENG_KS24CNTT2_PhamVietAn_08/HN_ENG_KS24CNTT2_PhamVietAn_08_Bai2/cmake-build-debug/CMakeFiles/HN_ENG_KS24CNTT2_PhamVietAn_08_Bai2.dir
+C:/Users/phama/OneDrive/Tài liệu/HN_ENG_KS24CNTT2_PhamVietAn_08/HN_ENG_KS24CNTT2_PhamVietAn_08_Bai2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/phama/OneDrive/Tài liệu/HN_ENG_KS24CNTT2_PhamVietAn_08/HN_ENG_KS24CNTT2_PhamVietAn_08_Bai2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
