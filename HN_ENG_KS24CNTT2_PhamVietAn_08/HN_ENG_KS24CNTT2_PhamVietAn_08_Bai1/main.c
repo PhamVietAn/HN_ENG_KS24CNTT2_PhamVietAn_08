@@ -71,11 +71,11 @@ void addHistory(History *h, Operation *op) {
 
 void printHistory(History *h) {
     if (h->head == NULL) {
-        printf("Khong co lich su duyet web");
+        printf("Khong co lich su duyet web\n");
         return;
     }
     Operation *cur = h->head;
-    printf("---------- Lich su duyet web ----------");
+    printf("---------- Lich su duyet web ----------\n");
     while (cur) {
         printf("URL: %s Timestamp: %s \n", cur->url, cur->timestamp);
         cur = cur->next;
@@ -185,11 +185,11 @@ int main(void) {
                 break;
 
             case 7:
-                printf("Da thoat chuong trinh");
+                printf("Da thoat chuong trinh\n");
                 break;
 
             default:
-                printf("Lua chon khong hop le");
+                printf("Lua chon khong hop le\n");
                 break;
         }
     }while (choice != 7);
